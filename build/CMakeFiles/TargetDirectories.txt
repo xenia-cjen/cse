@@ -1,0 +1,2 @@
+/home/xeniacjen/Documents/compiler/PA2/build/dce/CMakeFiles/MyDCE.dir
+/home/xeniacjen/Documents/compiler/PA2/build/cse/CMakeFiles/MyCSE.dir
